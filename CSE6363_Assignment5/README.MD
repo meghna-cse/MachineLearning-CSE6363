@@ -14,7 +14,9 @@
     for deprecated features; please ignore those warnings.
 
 ![](outputs/image4.png)
+
 ![](outputs/image3.png)
+
 ![](outputs/image2.png)
 
 ### Hyperparameter Analysis
@@ -100,9 +102,6 @@ Analysis:
 
 ### Performance Comparison
 
-+-----------------------------------+-----------------------------------+
-| **Q-Learning**                    | **Policy Iteration**              |
-+===================================+
 | Q-Learning | Policy Iteration |
 |--|--|
 |Performance varies with different hyperparameters, suggesting that it requires careful tuning to achieve optimal results. The average rewards for Q-Learning are lower than the consistent perfect score achieved by Policy Iteration.|Consistently Optimal. It consistently finds the optimal policy for the given environment.|
@@ -129,6 +128,7 @@ Analysis:
 -   Evaluated the model for 1 episode.
 
 ![](outputs/image1.png)
+
 ![](outputs/image14.png)
 
 Analysis:
